@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Binuk Perera</h1>
-<h3 align="center">A Curtin University Software Engineering undergraduate from Sri Lanka</h3>
+<h3 align="center">A Curtin University Software Engineering undergraduate</h3>
 
-- I’m currently learning **Bachelor of Computing- Software Engineering** at Curtin University, Perth, Western Australia, in my second year.
+- I’m currently learning **Bachelor of Computing- Software Engineering** at Curtin University, Perth, Western Australia, in my third year.
 - I’m interested in Quantum computing and research, in addition to being an avid programming enthusiast.
 - I’m looking to collaborate on beginner-level projects, I am currently versed in Java and C, in the process of learning Python, HTML and CSS.
 - How to reach me **rebinuk3116@gmail.com**
